@@ -14,7 +14,7 @@ The project uses both Pandas and SQL to solve the same analytical questions and 
 Airbnb-Analysis/
 │
 ├── data/
-│   └── listings_clean.csv
+│   └── AB_US_2020.csv
 │
 ├── pandas/
 │   └── Airbnb_Analysis.ipynb
